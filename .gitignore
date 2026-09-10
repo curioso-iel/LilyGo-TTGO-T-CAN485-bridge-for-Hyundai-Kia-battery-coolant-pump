@@ -1,0 +1,31 @@
+# PlatformIO build files and downloaded dependencies
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor settings
+.vscode/
+.idea/
+.clang_complete
+.gcc-flags.json
+
+# Serial monitor logs
+logs/
+*.log
+
+# Generated firmware and build outputs
+*.bin
+*.elf
+*.map
+*.o
+*.a
+*.d
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
